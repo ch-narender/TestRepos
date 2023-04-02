@@ -1,4 +1,4 @@
 this is sample example  text
-
+commit changes from editor
 
 added new fetures....
